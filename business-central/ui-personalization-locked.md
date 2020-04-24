@@ -18,7 +18,7 @@ Pokud se na panelu **Přizpůsobení** zobrazí při otevření stránky ikona z
 
 ![Zámek Přizpůsobení](media/personalization-locked.png "Zámek přizpůsobení")
 
-Je to proto, že jsme změnili způsob, jakým přizpůsobení funguje. Bohužel, starý a nový způsob nefunguje stejně.
+Je to proto, že jsme změnili způsob, jakým přizpůsobení funguje. Starý a nový způsob nefunguje stejně.
 
 Stránka aktuálně obsahuje poslední změny přizpůsobení, které jste provedli. Pokud chcete pokračovat v přizpůsobení stránky, můžete zvolit ikonu zámku a poté zvolte akci **Odemknout**. Jen mějte na pozoru, že pokud se rozhodnete odemknout stránku, bude aktuální přizpůsobení stránky vymazána a budete muset začít od nuly.
 
